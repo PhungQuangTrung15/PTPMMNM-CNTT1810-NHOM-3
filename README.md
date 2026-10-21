@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ
 
-### NHÓM 05 - CNTT 1810
+### NHÓM 03 - CNTT 1810
 
 **Môn học:** Phát triển phần mềm mã nguồn mở
 

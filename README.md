@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PHÁT TRIỂN PHẦN MỀM MÃ NGUỒN MỞ
 
 ### NHÓM 03 - CNTT 1810
@@ -76,6 +75,4 @@ bash lab.sh check && bash lab.sh run
 ## 5. Repository gốc
 
 https://github.com/FIT-DNU/Open-Source-Software-Development
-=======
-hello
->>>>>>> 5a40bbcaf41319fd5aabf2eddc52ed4105df2667
+

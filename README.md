@@ -18,9 +18,9 @@
 
 | Bài thí nghiệm | Nội dung | Trạng thái | Link | 
 | ----- | ----- | ----- | ----- | 
-| **Phòng thí nghiệm 01** | Linux và shell script (Bash scripting) | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab1/HUONG_DAN.md) / [Mã nguồn](https://github.com/FIT-DNU/Open-Source-Software-Development/tree/lab1) | 
-| **Phòng thí nghiệm 02** | Module PHP kiểm tra điều kiện đăng ký | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab2/HUONG_DAN.md) / [Mã nguồn](https://github.com/FIT-DNU/Open-Source-Software-Development/tree/lab2) | 
-| **Phòng thí nghiệm 03** | Danh sách sự kiện, tìm kiếm và form POST | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab3/HUONG_DAN.md) / [Mã nguồn](https://github.com/FIT-DNU/Open-Source-Software-Development/tree/lab3) | 
+| **Phòng thí nghiệm 01** | Linux và shell script (Bash scripting) | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab1/HUONG_DAN.md) / [Mã nguồn](https://github.com/PhungQuangTrung15/PTPMMNM-CNTT1810-NHOM-3/tree/lad1) | 
+| **Phòng thí nghiệm 02** | Module PHP kiểm tra điều kiện đăng ký | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab2/HUONG_DAN.md) / [Mã nguồn](https://github.com/PhungQuangTrung15/PTPMMNM-CNTT1810-NHOM-3/tree/lab2) | 
+| **Phòng thí nghiệm 03** | Danh sách sự kiện, tìm kiếm và form POST | 🟩 Hoàn thành | [Hướng dẫn](https://github.com/FIT-DNU/Open-Source-Software-Development/blob/lab3/HUONG_DAN.md) / [Mã nguồn](https://github.com/PhungQuangTrung15/PTPMMNM-CNTT1810-NHOM-3/tree/lab3) | 
 | **Luyện tập Lab 04** | Quản lý Session và Cookie | 🟦 Đang hoàn thiện |  | 
 | **Phòng thí nghiệm 05** | PostgreSQL và MySQL | 🟦 Đang hoàn thiện | Hướng dẫn / Mã nguồn | 
 

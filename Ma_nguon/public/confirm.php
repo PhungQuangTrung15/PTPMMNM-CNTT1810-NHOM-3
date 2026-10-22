@@ -26,13 +26,18 @@ require __DIR__.'/../templates/header.php';
 </dl>
 <div class="confirmation-actions">
 <a href="/register.php">Sửa lại</a>
+
+<!-- Form Xác nhận đã bổ sung trường event_id đúng chuẩn -->
 <form method="post" action="/complete.php">
-<input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>">
-<button>Xác nhận</button>
+    <input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>">
+    <input type="hidden" name="event_id" value="<?= (int)$data['event_id'] ?>">
+    <button>Xác nhận</button>
 </form>
+
+<!-- Form Hủy bản nháp -->
 <form method="post" action="/cancel.php">
-<input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>">
-<button class="button-secondary button-cancel">Hủy bản nháp</button>
+    <input type="hidden" name="csrf" value="<?= e($_SESSION['csrf']) ?>">
+    <button class="button-secondary button-cancel">Hủy bản nháp</button>
 </form>
 </div>
 </section>
